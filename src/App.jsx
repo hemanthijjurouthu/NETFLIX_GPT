@@ -1,8 +1,15 @@
+import {Provider} from 'react-redux';
+import appStore from './utils/appStore';
+
 import './App.css'
+import Body from './components/Body';
+
 
 function App() {
   return(
-    <h1>Ramakrishna</h1>
+    <Provider store={appStore}>
+      <Body />
+    </Provider>
   );
 }
 
