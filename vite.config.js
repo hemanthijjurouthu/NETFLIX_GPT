@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
+  path:process.env.VITE_BASE_PATH || "/NETFLIX_GPT"
 })
 
