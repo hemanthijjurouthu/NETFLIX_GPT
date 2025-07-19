@@ -10,7 +10,6 @@ Netflix_GPT is a dynamic and intelligent movie streaming UI clone powered by Ope
 - 🎬 Movie rows categorized by genre
 - 🌐 Fully responsive UI with Tailwind CSS
 - 🧾 Real-time Firestore usage for user data
-  
 
 ## 🛠️ Tech Stack
 
@@ -23,16 +22,19 @@ Netflix_GPT is a dynamic and intelligent movie streaming UI clone powered by Ope
 
 ## 📂 Folder Structure
 
+(You can add your folder structure here if needed.)
+
 ## 🧠 How GPT Works
 
-The GPT integration allows users to enter natural language prompts such as:
+The GPT integration allows users to enter natural language prompts such as:  
 > “Show me Hindi thrillers released after 2018”
 
 GPT processes the input, classifies the genre, and fetches matching results using the TMDB API.
 
 ## 🎥 Live Demo
 
-> [Click here to watch the project demo](https://drive.google.com/file/d/1pyYEDHplZpDRMA_VraU2Sg0KJJXnfAcE/view?usp=drive_link)
+> 🔴 **Live Website**: [https://netflix-gpt-six-kappa.vercel.app/](https://netflix-gpt-six-kappa.vercel.app/)
+
+> 🖥️ **Project Demo Video**: [Click here to watch the project demo](https://drive.google.com/file/d/1pyYEDHplZpDRMA_VraU2Sg0KJJXnfAcE/view?usp=drive_link)
 
 Due to routing issues in deployment, a screen-recorded demonstration is provided above.
-
